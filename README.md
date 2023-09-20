@@ -19,3 +19,6 @@ Experienced Front-end Developer with 2+ years of experience in Web Development w
 
 #### - Fun fact: -
 >😂 I like to watch Drag TV Shows!
+
+#### - Contact me: -
+>✉️ dwtoledo@outlook.com
