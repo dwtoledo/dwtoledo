@@ -1,7 +1,10 @@
 ### Douglas Toledo
 🌟 Experienced in developing accessible and user-friendly interfaces for responsive web applications;
+
 🔧 Skilled in Agile/Scrum methodologies, collaborating with cross-functional teams, and efficiently managing the development life cycle;
+
 💪 Enhanced adaptability, communication, resilience, and teamwork through seven years as a Manufacturing Engineer and four as an Entrepreneur, resulting in high-quality work and analytical process-driven thinking;
+
 🚀 I help companies drive measurable results and achieve digital excellence through innovative solution developments.
 
 #### - Skills: -
