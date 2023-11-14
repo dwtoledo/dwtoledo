@@ -1,18 +1,11 @@
-### Douglas Wilian de Toledo
-Experienced Front-end Developer with 2+ years of experience in Web Development with Agile and Scrum methodologies expertise. With MBA and Engineering graduations, I help companies drive measurable results and achieve digital excellence through innovative solution developments. I'm open to work opportunities and excited to collaborate with forward-thinking teams worldwide.
+### Douglas Toledo
+🌟 Experienced in developing accessible and user-friendly interfaces for responsive web applications;
+🔧 Skilled in Agile/Scrum methodologies, collaborating with cross-functional teams, and efficiently managing the development life cycle;
+💪 Enhanced adaptability, communication, resilience, and teamwork through seven years as a Manufacturing Engineer and four as an Entrepreneur, resulting in high-quality work and analytical process-driven thinking;
+🚀 I help companies drive measurable results and achieve digital excellence through innovative solution developments.
 
-#### - Experience -
->👨‍💻 Worked two years as Frontend Developer in Brazil before I migrate to Canada.
-
->🏭 Worked for almost seven years as a Product Engineer at Flex, one of the world's largest electronics manufacturers, before my career transition to the Software Development area.
-
->💡 Four years of entrepreneurial experience developing products, experiencing acceleration programs, mentoring, funding, pitching, presenting projects to investors, and winning awards.
-
-#### - Technologies I've been working with: -
-> HTML5, CSS3, JavaScript, TypeScript, JSON, Angular 8+, AngularJs, Figma, Git, GitHub, Sass, Bootstrap, Material Component-based UI, REST API, Microsoft Azure Cloud platform.
-
-#### - I'm familiar with: -
->  React, CSS modules, Styled Components, Radix component-based UI, Context API, State management, React hooks, Jest, TDD - Test-driven development, Python, SQL, Data modelling, Data structures, OPP - Object-oriented programming, debugging, troubleshooting, UI/UX design principles, CI/CD - Continuous integration and deployment, SDLC - Software development life cycle, technical SEO optimization.
+#### - Skills: -
+> HTML, CSS, SCSS, JavaScript, TypeScript, Angular, AngularJS, Material UI, Figma, Microsoft Azure DevOps, REST Client, React, React Hooks, React Context API, Zod, CSS modules, Styled-components, TailwindCSS, Radix Shadcn UI, Bootstrap, Git, TDD (Test-driven development) with Jest, CI/CD (Continuous Integration & Deployment), OOP (Object-oriented Programming), and Python.
 
 #### - Pronouns: -
 >👨‍🦱 He/him.
