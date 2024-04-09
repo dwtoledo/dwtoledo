@@ -1,14 +1,29 @@
-### Douglas Toledo
-🌟 Experienced in developing accessible and user-friendly interfaces for responsive web applications;
+### DOUGLAS TOLEDO - Front-end Developer
 
-🔧 Skilled in Agile/Scrum methodologies, collaborating with cross-functional teams, and efficiently managing the development life cycle;
+🌟 2 years of experience developing accessible, user-friendly interfaces for responsive web applications using Angular, JavaScript, TypeScript. Utilized Agile methodologies such as Scrum and managed the development cycle using Azure DevOps.
 
-💪 Enhanced adaptability, communication, resilience, and teamwork through seven years as a Manufacturing Engineer and four as an Entrepreneur, resulting in high-quality work and analytical process-driven thinking;
+❤️ My past experiences as an engineer and entrepreneur have honed my ability to integrate technical and business perspectives for innovative, robust solutions.
 
-🚀 I help companies drive measurable results and achieve digital excellence through innovative solution developments.
+🚀 I help companies drive measurable results and achieve digital excellence through innovative developments. Some examples include:
 
 #### - Skills: -
-> HTML, CSS, SCSS, JavaScript, TypeScript, Angular, AngularJS, Material UI, Figma, Microsoft Azure DevOps, REST Client, React, React Hooks, React Context API, Zod, CSS modules, Styled-components, TailwindCSS, Radix Shadcn UI, Bootstrap, Git, TDD (Test-driven development) with Jest, CI/CD (Continuous Integration & Deployment), OOP (Object-oriented Programming), and Python.
+- ***Languages:*** JavaScript, TypeScript, and Python.
+- ***Frontend Development:*** Angular, AngularJS, RxJS, Bootstrap, Material Design, React, Redux, Styled-components, Tailwind CSS, Radix, HTML, CSS, SCSS, and Less.
+- ***Backend Development:*** Node.js, Express.js, and RESTful API.
+- ***Version Control/DevOps:*** Git, Azure DevOps, CI/CD (Continuous Integration & Deployment), and Docker.
+- ***Testing:*** TDD (Test-driven Development), Jest, and Playwright.
+- ***Project Management/Methodologies:*** Agile, Scrum, and SDLC (Software Development Life Cycle).
+- ***Accessibility:*** WCAG 2.x AA, and AODA (Accessibility for Ontarians with Disabilities Act).
+- ***Other:*** Figma, JSON, OOP (Object-oriented Programming) and WordPress.
+
+#### - Education: - 
+- ***2018*** – M.B.A in Business at FGV - Getúlio Vargas Foundation, Sorocaba, Brazil.
+- ***2013*** – Bachelor in Electrical Engineering at PUC - Pontifical Catholic University, Campinas, Brazil.
+
+#### - Licenses & Certifications: - 
+- ***2023*** – Python Essentials 1 at Cisco Skills for All.
+- ***2024*** – Introduction to Web Accessibility – W3C at edX.
+- ***2024*** – Accessibility for Ontarians with Disabilities Act (AODA) at aoda.ca.
 
 #### - Pronouns: -
 >👨‍🦱 He/him.
