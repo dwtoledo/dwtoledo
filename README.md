@@ -30,11 +30,5 @@
 - ***2024*** – W3C edX: Introduction to Web Accessibility.
 - ***2023*** – Cisco Academy: Python Essentials 1.
 
-#### - Pronouns: -
->👨‍🦱 He/him.
-
 #### - Fun fact: -
 >😂 I like to watch Drag TV Shows!
-
-#### - Contact me: -
->✉️ dwtoledo@outlook.com
