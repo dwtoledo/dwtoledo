@@ -1,6 +1,6 @@
 ### DOUGLAS WILIAN DE TOLEDO - Software Engineer
 
-👨‍💻 **Experienced professional**, worked 2 years in the pharmaceutical sector 💊 , where optimized support team productivity by 35% in six months and contributed to securing three major contracts (Pfizer®, Bayer®, and Lilly®). Recognized entrepreneur in assistive technologies, secured funding and led research and development of projects focused on visually impaired individuals. With over 5 years of experience as a Manufacturing Engineer, having developed strong analytical skills in solving complex problems. Currently **dedicated to software engineering, combining experience with passion for technology.**
+👨‍💻 Angular Frontend Developer combining a strong Engineering background with strategic business insight (MBA). Skilled in translating complex requirements into efficient, scalable web applications using Angular, and TypeScript. Leverages analytical problem-solving skills to optimize development workflows and enhance system performance in Agile environments. Proven ability to bridge the gap between technical execution and business stakeholders to deliver high-quality solutions.
 
 🚀 Let’s connect to build innovative solutions and create meaningful digital experiences!
 
