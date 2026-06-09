@@ -1,8 +1,17 @@
 ### DOUGLAS WILIAN DE TOLEDO - Software Engineer
 
-👨‍💻 Angular Frontend Developer combining a strong Engineering background with strategic business insight (MBA). Skilled in translating complex requirements into efficient, scalable web applications using Angular, and TypeScript. Leverages analytical problem-solving skills to optimize development workflows and enhance system performance in Agile environments. Proven ability to bridge the gap between technical execution and business stakeholders to deliver high-quality solutions.
+**👨‍💻 Software Engineer | Data-Driven Interfaces & Problem Solving**
 
-🚀 Let’s connect to build innovative solutions and create meaningful digital experiences!
+I am a Software Engineer with over 3 years of experience in frontend development (Angular, React), combining technical expertise with a strong analytical foundation. My focus is on building accessible applications that translate complex data into intuitive and practical digital experiences.
+
+**⚙️ The Lean Background & Practical AI:**
+Before transitioning to software, I spent nearly a decade as a Manufacturing Engineer. That period taught me an important lesson: technology is a means to solve real business problems. Before writing a line of code, I focus on understanding the business model, the user's needs, and the end goal. Today, this practical approach guides how I use AI. For me, leveraging AI isn't just about generating code or writing prompts; it's about understanding the context well enough to ask the right questions, using it as a collaborative accelerator to deliver efficient solutions.
+
+**🏗️ Building for Complex Scenarios:**
+Currently, I am part of the team developing a Customs Management System for Caterpillar (via 3CON) using Angular 18. My work involves translating complex trade documentation into streamlined digital workflows through dynamic data tables, real-time filtering, and state management. The goal is to build interfaces that make large volumes of data easy to navigate.
+
+**📊 Impact & UX Focus:**
+I am driven by connecting technical solutions to business results. In the pharmaceutical sector, integrating RESTful APIs for large-scale data processing helped increase field support productivity by 35%. Additionally, my background leading an R&D team for assistive technologies (backed by FAPESP) reinforced my commitment to inclusive design (WCAG) and user-centric interfaces.
 
 #### - My skills: - 
 
@@ -16,10 +25,6 @@
 
 ##### Methodologies:
 - ***Agile, Scrum, Clean Code.***
-
-##### Soft Skills:
-- ***Teamwork, Clear Communication, Attention to Detail, Open to Feedback, Problem Solving, Proactivity, Quick Learning, Cross-functional Collaboration.***
-
 
 #### - Education: - 
 - ***2018*** – **MBA** | FGV, one of Brazil's most prestigious institutions | Brazil
